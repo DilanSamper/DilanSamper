@@ -1,4 +1,4 @@
 <h1 align="center">Hi , I'm Dilan Samper <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-![Visitor Count](https://profile-counter.glitch.me/{DilanSamper}/count.svg)
+![Visitor](https://profile-counter.glitch.me/{DilanSamper}/count.svg)
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
